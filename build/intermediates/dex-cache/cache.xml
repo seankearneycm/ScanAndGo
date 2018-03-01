@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_760e4d774ec4aee3b9adf1823b8a4eeed901123e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_08727caa265070cde0e7352c189780838750c5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_c747ba0540a61c523a1928becbcac48a70b8b142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a4251131b36a479f0088943c94edeaf422d50789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a4251131b36a479f0088943c94edeaf422d50789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_08727caa265070cde0e7352c189780838750c5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_d8b41beab66bbc0e41d62e5cb8e747f836f87d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_b9a677c54712c7ba41037aa37fe54f17577a6db2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_e3b1f955e03616c97df53086454aca1f2378caca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_5bf9834955f72b60b2fd82591789d3437e305c83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_f811d31c28bf91fde7873e096b6c28e456e78f45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/rnmap/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca12a06449df0bbfdffdcf8eb990a7d2c09df08e">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/rnmap-react-native-maps-unspecified_af781aa1d20b973d7b8d6fca6cc293281de98631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_37b5c75af305e3a0c0fd70812ee872291f574280.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_1d0efa8908e9e82e24998fcb2925c0d34df1d68d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b0eb01ac7a3b9ea9ad87cfb2138da50e2198549a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_360ad764f5b88417b72928a558bed6eaf1d86a69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_6d110230e0010385063ca62b3f58237d028a41df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_0f20f500124bd92c03e06980f68f4a442700d052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_29c9c5732742599ae43bab7ea0f4270af7b4f1e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_ad31177406a75fdf8295bde4a7ca763549df8831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_a25c075e928375f43d175f0b7179c2c62097cfde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_b031bfe8ce556fb445cf2a9db69f9542862f54df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_37bb2390fe86b0554fc3e4eb618b50a9b298a82e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_644b33a3371fce3dd260713431f4372a76730442.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_a25c075e928375f43d175f0b7179c2c62097cfde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_f4d52a954c8e309db00a9241b5af36ad737cf58e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_c7875755cae22ee5d549e70f132a0eeb2e9a946b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_d5747adc34b394a41eab8afb30d3005564923ffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_a21fbdfc6fa2d3ca7e7e270b6a9cf470275205ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_79bb7d30ff699a964ed9df27525083cf0292a68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_543329c59778bdb9462cb0de4b65c75dcaccc063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_8653b483816086fdefde0cbb164d5343dea51813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_eab1481fd04f86e4be1f17490bdb93bad3d425dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_ad524c8636e8eaba1996890edec8b51f3c1c6c14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_d97efafffd92adcd37b9d9c874406fcc27ed1d28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_0058947eda4d58947b2c09de1cb0a950ce79f9a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_870bedcf3cb4d93d7d5f2e3fcd899fbe70ff88ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_29d8ff35eea11cd997eb96b37c2b9308b0cbcd77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_d97efafffd92adcd37b9d9c874406fcc27ed1d28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_8653b483816086fdefde0cbb164d5343dea51813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_7e1aa1af1b165881b03c2f9023373240979c5895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_244d6be9b669e06a63407882cbac99601aaf189e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_b27cf71f64165905f44dfd2a3f0373094e95fe7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_79bb7d30ff699a964ed9df27525083cf0292a68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_1f15515e7f6d70849722cadc73cd4fad071e45fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_6fb10687aedbb05199ba55792552d13d4a42de90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_b61c006831e4bb98e22b6da619c1b137c409e3e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_1405de9c6768e0e0456dcf849333fe8772a16f14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_43e9043a006b0277b983e2d224924e331a04c9c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_9e52e7496c9583bc8dc72a9ab9c884cdd296a567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_ec0b9f90cbba9a35ee59ecd326b85c76abbb6ecf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_7ce9a577eb117264979b2eb47eb09daadca3b74e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_abe632b0fb9594d2d52a900ab72498331fb1db88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_abe632b0fb9594d2d52a900ab72498331fb1db88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_b61c006831e4bb98e22b6da619c1b137c409e3e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_57697dcf3d6c764d869ec15cec2065ad4796375c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_4692bc820cbf17830f7bd821f2409f47218f7084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_8c7baa75e761ced9fa081918ade4e29dcc74f4b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_3403c7846a92fe27448461d550d704a3b29a779b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/rnmap/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="036dfb9544b961ff2fb57ce59c917ec5655deddb">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/rnmap-react-native-navigation-unspecified_341278fa85742089dbc9ea4cfc279d5212c43f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_dffcdab0ee03e7e856a597413e9a83a8ee841814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f67c7ac60d54b74d07f32ba457d01247460722e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_d8f1936b9af4368ef916301639ce3e23ffe87a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f67c7ac60d54b74d07f32ba457d01247460722e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_8c7baa75e761ced9fa081918ade4e29dcc74f4b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_2ef44322fc4f09d5bf492bb6e200ec9389c54d15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_dffcdab0ee03e7e856a597413e9a83a8ee841814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_ad524c8636e8eaba1996890edec8b51f3c1c6c14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_3403c7846a92fe27448461d550d704a3b29a779b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_43e9043a006b0277b983e2d224924e331a04c9c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_2ef44322fc4f09d5bf492bb6e200ec9389c54d15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_03884f134e0b028c281c8c03577acb1c343b0aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_f254ee75794a31d165d57508115218e7bcbdf5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/rnmap/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/rnmap-react-native-vector-icons-unspecified_04d3c7ca5b57f230d916c0304d271b000880fb31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/rnmap/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="036dfb9544b961ff2fb57ce59c917ec5655deddb">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/rnmap-react-native-navigation-unspecified_18fed4490f32a659aeeeeeebd59836416d068120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_816238c6f493fddb3a78228d4a2193357d872e6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_b187f5b4d5637377c4c0ec68e95e801909854a67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_a4e29c5536f4da649a0f6ddc0ac6cf267f2071ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/rnmap/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/rnmap-react-native-vector-icons-unspecified_4739842dfc29d7df3723de4b946f6c778824b9db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_ce3b32e04ea004217cd9b4453908dee1e33283e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_110fe4a81f7b400fcdcc8c3d52b17286615e2a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_f811d31c28bf91fde7873e096b6c28e456e78f45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_cacd5efba94b58e5726e158f7ccb446dc212e6b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/sean.kearney/sams-club-events/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_f797f3086f0e5def12e0ec621f6702e31ce20dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sean.kearney/rn-map/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/sean.kearney/rn-map/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_7ce9a577eb117264979b2eb47eb09daadca3b74e.jar" />
+    </item>
+
+</items>
